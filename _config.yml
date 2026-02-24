@@ -1,2 +1,24 @@
-theme: modern-ui
-custom_css: custom_styles.css
+title: "C# Design Pattern"
+description: "Master C# Design Patterns - Learn Creational, Structural, and Behavioral patterns with practical examples and best practices"
+author: "Sachendra"
+theme: minima
+
+# Build settings
+markdown: kramdown
+exclude:
+  - vendor
+
+# GitHub Pages settings
+url: "https://jainsachendra.github.io/sachendra-blog/"
+baseurl: ""
+
+# Minima theme settings
+minima:
+  skin: dark
+  social_links:
+    - { platform: github, user_url: "https://github.com/jainsachendra" }
+  
+# Header pages
+header_pages:
+  - about.md
+  - patterns.md
