@@ -1,11 +1,2 @@
-title: "C# Design Pattern"
-description: "Learn and explore design patterns in C# with detailed examples and best practices"
-theme: minima
-
-# Build settings
-exclude:
-  - vendor
-
-# GitHub Pages settings
-url: "https://jainsachendra.github.io/sachendra-blog/"
-baseurl: ""
+theme: modern-ui
+custom_css: custom_styles.css
